@@ -5682,4 +5682,27 @@ https://www.googleapis.com/drive/v3/files/18xEJluIja2EL-2sBh_meaJqojRtGk40T?alt=
 #EXTINF:-1 tvg-id="ext" tvg-name="Miraculous World New york United Heroez." tvg-logo="https://i.ibb.co/D7FRZ3z/miraculous.jpg" group-title="BIBLIOTECA PELICULAS",Miraculous World New york United Heroez.
 https://www.googleapis.com/drive/v3/files/1CY2bDUaaGKyHCVpJnEixavBIHaB0RVEd?alt=media&key=AIzaSyCB_dfyaadx9vfgrHmLI03phz_6N7RGPwk
 
+#EXTINF:-1 tvg-id="AguacateTV.ve", tvg-logo="https://intervenhosting.net/imagenes/aguacatetv.jpg" group-title="Venezuela", Aguacate TV (1080) [Not 24/7]
+https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="GuaroTV.ve", tvg-logo="https://intervenhosting.net/imagenes/guarotv.jpg" group-title="Venezuela", Guaro TV (1080) [Not 24/7]
+https://streamtv.intervenhosting.net:3061/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="interTV.ve", tvg-logo="https://intervenhosting.net/imagenes/intertv.jpg" group-title="Venezuela", Inter TV (1080) [Not 24/7]
+https://streamtv.intervenhosting.net:3175/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="LatinaTV.ve", tvg-logo="https://intervenhosting.net/imagenes/latinatv.jpg" group-title="Venezuela", Latina TV (1080) [Not 24/7]
+https://streamtv.intervenhosting.net:3639/multi_live/play.m3u8
+
+#EXTINF:-1 tvg-id="KandelaTV.ve", tvg-logo="https://intervenhosting.net/imagenes/kandelatv.jpg" group-title="Venezuela", Kandela TV (1080) [Not 24/7]
+https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
+
+#EXTINF:-1 tvg-id="Telecentro.com.ve", tvg-logo="https://intervenhosting.net/roku/telecentro/listposter.jpg" group-title="Venezuela", Telecentro (1080) [Not 24/7]
+https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8
+
+#EXTINF:-1 tvg-id="Portutv.com", tvg-logo="https://intervenhosting.net/roku/portutv/portutv.jpg" group-title="Venezuela", Portuguesa Televisión (1080) [Not 24/7]
+https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
+
+#EXTINF:-1 tvg-id="Iglesialgd.org", tvg-logo="https://intervenhosting.net/roku/iglesialgd/lgdtv.jpg" group-title="Venezuela", Portuguesa Televisión (1080) [Not 24/7]
+https://streamtv.intervenhosting.net:3259/hybrid/play.m3u8
 
